@@ -4,4 +4,4 @@ We compute the tree-level bispectrum of dark matter in the presence of massive n
 
 ------
 
-R. de Belsunce & L. Senatore, [Tree-level bispectrum in the effective field theory of large-scale structure extended to massive neutrinos], [JCAP 1902 (2019) 038](https://iopscience.iop.org/article/10.1088/1475-7516/2019/02/038), [arXiv](https://arxiv.org/abs/1804.06849))
+R. de Belsunce & L. Senatore, *Tree-level bispectrum in the effective field theory of large-scale structure extended to massive neutrinos*, [JCAP 1902 (2019) 038](https://iopscience.iop.org/article/10.1088/1475-7516/2019/02/038), [arXiv](https://arxiv.org/abs/1804.06849)
