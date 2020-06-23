@@ -9,6 +9,9 @@ We compute the tree-level bispectrum of dark matter in the presence of massive n
 2. Download Mathematica notebook and read in the input theory P(k). The code is self consistent and is able to reproduce all the results in the paper.
 
 ------
-Please cite the original work, if you use this notebook:
+Please cite the following two papers, if you use this notebook:
 
 R. de Belsunce & L. Senatore, *Tree-level bispectrum in the effective field theory of large-scale structure extended to massive neutrinos*, [JCAP 1902 (2019) 038](https://iopscience.iop.org/article/10.1088/1475-7516/2019/02/038), [arXiv](https://arxiv.org/abs/1804.06849)
+
+L. Senatore & M. Zaldarriaga, *The Effective Field Theory of Large-Scale Structure in the presence of Massive Neutrinos* (2017), [arXiv:1707.04698](https://arxiv.org/abs/1707.04698)
+
